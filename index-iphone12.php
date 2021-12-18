@@ -39,8 +39,10 @@
 				<div class="portfolio-applesupport-text fademove">
 					<h3>By day, I work as a Product Manager on the <a href="https://apps.apple.com/us/app/apple-support/id1130498044" target="_blank">Apple Support</a> app.</h3>
 				</div>
-				<div class="fademove iphone13">
-					<div class="fade iphone13-screen"></div>
+				<div class="fademove iphone1"></div>
+				<div class="fademove iphone2">
+					<div class="fade iphone2-screen">
+				</div>
 				</div>
 			</div>
 		
@@ -81,7 +83,7 @@
 
 $(window).scroll(function() {
     $('.fade').each(function() {
-        var top_of_element = $(this).offset().top + 500;
+        var top_of_element = $(this).offset().top + 600;
         var bottom_of_element = $(this).offset().top + $(this).outerHeight();
         var bottom_of_screen = $(window).scrollTop() + $(window).innerHeight();
         var top_of_screen = $(window).scrollTop();
