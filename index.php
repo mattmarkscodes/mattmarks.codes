@@ -20,7 +20,7 @@
 	<div class="wrap container-fluid">
 		<div class="row">
 			<div class="col-xs-12 col-md-10 col-md-offset-1">
-				<h1>Hello! I’m Matt Marks, a <br />product manager, <br />web designer, <br />technical ninja, <br />& creative jedi.</h1>
+				<h1>Howdy! I’m Matt Marks, a <br />product manager, <br />web designer, <br />technical ninja, <br />& creative jedi.</h1>
 			</div>
 		</div>
 		<section id="scrollarrow" class="arrow" style="visibility:hidden;">
