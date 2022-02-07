@@ -1,6 +1,7 @@
 /*
 Author: Matt Marks
-Version: 2021.12.28.2
+Version: 2022.02.06
+URL: https://github.com/mattmarkscodes/mattmarks.codes
 */
 
 
@@ -33,13 +34,13 @@ header h1 									{ position: relative; color: white; }
 
 main 										{ width:100vw; overflow:hidden; }
 
-.portfolio-applesupport 					{ position:relative; padding-top:4em; margin-top:7em; }
-.portfolio-applesupport-text 				{ position:absolute; width:60%; top:0; left:0; }
-.portfolio-applesupport-text h2 			{ font-size: 3em; color: #333; letter-spacing: -0.15px; line-height: 1.4em; font-weight: 600; padding-top:1.9em; }
-.portfolio-applesupport-text a 				{ white-space:nowrap; color:rgba(44, 94, 209, 1.000); text-decoration:none; }
-.portfolio-applesupport-text a:hover 		{ text-decoration:underline; }
-.portfolio-applesupport .iphone13 			{ width:100%; background:url('img/iphone-13-skel.png') center right no-repeat; background-size:95%; height:941px; margin-left:35%; margin-top:-20%; z-index:98; }
-.portfolio-applesupport .iphone13-screen 	{ width:100%; background:url('img/iphone13-screen.png') center right no-repeat; background-size:95%; height:941px; z-index:99; }
+.applesupport 								{ position:relative; padding-top:4em; margin-top:7em; }
+.applesupport-text 							{ position:absolute; width:60%; top:0; left:0; }
+.applesupport-text h2 						{ font-size: 3em; color: #333; letter-spacing: -0.15px; line-height: 1.4em; font-weight: 600; padding-top:1.9em; }
+.applesupport-text a 						{ white-space:nowrap; color:rgba(44, 94, 209, 1.000); text-decoration:none; }
+.applesupport-text a:hover 					{ text-decoration:underline; }
+.applesupport .iphone13 					{ width:100%; background:url('img/iphone-13-skel.png') center right no-repeat; background-size:95%; height:941px; margin-left:35%; margin-top:-20%; z-index:98; }
+.applesupport .iphone13-screen 				{ width:100%; background:url('img/iphone13-screen.png') center right no-repeat; background-size:95%; height:941px; z-index:99; }
 	
 .pixels_bg 									{ width: 100%; background: #111; transform: skewY(-5deg); margin-top:.9em; padding:3em 0 6em 0; }
 .portfolio-pixels 							{ position:relative; transform: skewY(5deg); padding-top:15em; }
